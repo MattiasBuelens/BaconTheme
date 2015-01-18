@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bacon Theme</string>
+    <string name="theme_name">Bacon</string>
+    <string name="theme_author">Mattias Buelens</string>
+</resources>
